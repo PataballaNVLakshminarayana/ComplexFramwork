@@ -98,6 +98,5 @@ F:\Practice_Final\SeleniumWithC#_GitHub\TestPro2_ComplexFramwork\TestPro2_Comple
 F:\Practice_Final\SeleniumWithC#_GitHub\TestPro2_ComplexFramwork\TestPro2_ComplexFramwork\obj\Debug\netcoreapp3.1\TestPro2_ComplexFramwork.dll
 F:\Practice_Final\SeleniumWithC#_GitHub\TestPro2_ComplexFramwork\TestPro2_ComplexFramwork\obj\Debug\netcoreapp3.1\TestPro2_ComplexFramwork.pdb
 F:\Practice_Final\SeleniumWithC#_GitHub\TestPro2_ComplexFramwork\TestPro2_ComplexFramwork\obj\Debug\netcoreapp3.1\TestPro2_ComplexFramwork.genruntimeconfig.cache
-F:\Practice_Final\SeleniumWithC#_GitHub\TestPro2_ComplexFramwork\TestPro2_ComplexFramwork\obj\Debug\netcoreapp3.1\TestPro2_ComplexFramwork.csproj.AssemblyReference.cache
-F:\Practice_Final\SeleniumWithC#_GitHub\TestPro2_ComplexFramwork\TestPro2_ComplexFramwork\obj\Debug\netcoreapp3.1\TestPro2_ComplexFramwork.GeneratedMSBuildEditorConfig.editorconfig
-F:\Practice_Final\SeleniumWithC#_GitHub\TestPro2_ComplexFramwork\TestPro2_ComplexFramwork\obj\Debug\netcoreapp3.1\TestPro2.D3C7F7C5.Up2Date
+F:\Practice_Final\SeleniumWithC#_GitHub\TestPro2_ComplexFramwork\TestPro2_ComplexFramwork\bin\Debug\netcoreapp3.1\appsetting.json
+F:\Practice_Final\SeleniumWithC#_GitHub\TestPro2_ComplexFramwork\TestPro2_ComplexFramwork\obj\Debug\netcoreapp3.1\TestPro2_ComplexFramwork.csproj.CopyComplete

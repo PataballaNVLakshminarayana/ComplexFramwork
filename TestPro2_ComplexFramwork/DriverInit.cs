@@ -15,7 +15,10 @@ namespace TestPro2_ComplexFramwork
             switch (driver.ToLower())
             {
                 case "chrome":
-                    _driver = new ChromeDriver();
+                    ChromeOptions _options = new ChromeOptions();
+                    _options.AddArgument("--headless");
+                    _options.AddArgument("no-sandbox");
+                    _driver = new ChromeDriver(_options);
                     break;
                 case "fireforx":
                     _driver = new FirefoxDriver();
