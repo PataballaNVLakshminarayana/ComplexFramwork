@@ -100,3 +100,4 @@ F:\Practice_Final\SeleniumWithC#_GitHub\TestPro2_ComplexFramwork\TestPro2_Comple
 F:\Practice_Final\SeleniumWithC#_GitHub\TestPro2_ComplexFramwork\TestPro2_ComplexFramwork\obj\Debug\netcoreapp3.1\TestPro2_ComplexFramwork.genruntimeconfig.cache
 F:\Practice_Final\SeleniumWithC#_GitHub\TestPro2_ComplexFramwork\TestPro2_ComplexFramwork\bin\Debug\netcoreapp3.1\appsetting.json
 F:\Practice_Final\SeleniumWithC#_GitHub\TestPro2_ComplexFramwork\TestPro2_ComplexFramwork\obj\Debug\netcoreapp3.1\TestPro2_ComplexFramwork.csproj.CopyComplete
+F:\Practice_Final\SeleniumWithC#_GitHub\TestPro2_ComplexFramwork\TestPro2_ComplexFramwork\obj\Debug\netcoreapp3.1\TestPro2_ComplexFramwork.csproj.AssemblyReference.cache
